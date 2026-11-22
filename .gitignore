@@ -1,3 +1,5 @@
+# The readable engine sources live outside the entry snapshot:
+# main.py alone is the entry, packed from them by the kit's compress.
 engine.py
 engine_min.py
 __pycache__/
